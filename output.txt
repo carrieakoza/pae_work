@@ -1,9 +1,24 @@
+Tests
 Some Street 123
 Apt 123
 third line here
 
-
-Some Street 123  Apt 123 third line here 
-
 Some Street 123  Apt 123 third line here 
 Some Street 123 Apt 123third line here 
+-----------
+Just line 1
+-----------
+Some Street 123
+
+-----------
+line 1 & 2 
+-----------
+Some Street 123
+Apt 456
+
+-----------
+Line 1 & 3 
+-----------
+Some Street 123
+Line 3 filled
+
